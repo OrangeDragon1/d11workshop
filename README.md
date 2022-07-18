@@ -25,3 +25,7 @@ git branch -a
 git branch
 git branch delete <branch name>
 git checkout -b develop master
+
+
+git checkout develop
+git merge master
